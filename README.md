@@ -48,7 +48,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezpzbb&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezpzbb&layout=compact&theme=default" height="165" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezpzbb&layout=compact&cache_seconds=10)
+
 </p>
 
 ---
