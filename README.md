@@ -24,9 +24,10 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### Backend  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0099FF?style=flat&logo=websocket&logoColor=white)
+
 
 ### Machine Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -50,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezpzbb&show_icons=true&theme=default" height="165" />
-  <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezpzbb&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezpzbb&layout=compact&theme=default" />
 </p>
 
 ---
