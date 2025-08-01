@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ezpzbb&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezpzbb&layout=compact&theme=default" />
+  <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezpzbb&layout=compact&theme=default" />
 </p>
 
 ---
